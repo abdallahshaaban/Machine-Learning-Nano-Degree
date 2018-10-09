@@ -1,0 +1,9 @@
+numpy
+os
+matplotlib
+librosa
+keras
+scipy
+wave
+sklearn
+itertools
